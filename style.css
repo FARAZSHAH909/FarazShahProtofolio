@@ -201,6 +201,9 @@ h1 {
         height: 30px; /* Smaller icon size */
         font-size: 18px; /* Smaller icon font size */
     }
+     nav a{
+        font-size: 13px;
+    }
 }
 
 
